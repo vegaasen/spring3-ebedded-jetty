@@ -6,6 +6,8 @@
 *.iml
 *.ipr
 *.iws
+/.idea
+*.idea
 
 # Package Files #
 *.jar
