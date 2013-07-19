@@ -1,0 +1,13 @@
+# Generated Files #
+/target
+*.class
+
+# IDE-Specific Files #
+*.iml
+*.ipr
+*.iws
+
+# Package Files #
+*.jar
+*.war
+*.ear
